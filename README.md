@@ -3,6 +3,8 @@ Providing additional details from my talks on cryptography.
 
 # Mac OS X Installation
 
+[![asciicast](https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc.png)](https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc)
+
 1. Install Brew: https://brew.sh/
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -46,5 +48,3 @@ gpg --encrypt --armour filename
 ```
 gpg --decrypt filename
 ```
-
-https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc
