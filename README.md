@@ -1,10 +1,11 @@
-# CryptoParty - How to install GPG
+# How to install GPG
 
 # Windows Installation + Usage
 ## gpg4win
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j7WzLw-UKQ0/0.jpg)](https://www.youtube.com/watch?v=j7WzLw-UKQ0)
 
 1. Download gpg4win and following instructions - https://www.gpg4win.org/
+
 Documentation - https://files.gpg4win.org/doc/gpg4win-compendium-en.pdf
 
 2. Click "Create New Key Pair"
