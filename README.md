@@ -4,7 +4,8 @@ Providing additional details from my talks on cryptography.
 
 # Mac OS X Installation
 
-<center><a href="https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc" target="_blank"><img src="https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc.png" width=589 height=411 /></a></center>
+<a href="https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc" target="_blank"><img src="https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc.png" width=589 height=411 /></a>
+
 
 1. Install Brew: https://brew.sh/
 ```
