@@ -2,6 +2,9 @@
 ## How to install GPG
 Providing additional details from my talks on cryptography.
 
+# Windows Installation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j7WzLw-UKQ0" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 # Mac OS X Installation
 
 <a href="https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc" target="_blank"><img src="https://asciinema.org/a/eo3Vs5hzKAeRwoTZ2qXxMBlpc.png" width=589 height=411 /></a>
