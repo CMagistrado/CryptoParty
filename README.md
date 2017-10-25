@@ -1,6 +1,4 @@
-# CryptoParty
-## How to install GPG
-Providing additional details from my talks on cryptography.
+# CryptoParty - How to install GPG
 
 # Windows Installation
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j7WzLw-UKQ0/0.jpg)](https://www.youtube.com/watch?v=j7WzLw-UKQ0)
