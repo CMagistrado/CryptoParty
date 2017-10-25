@@ -3,8 +3,6 @@
 Providing additional details from my talks on cryptography.
 
 # Windows Installation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j7WzLw-UKQ0" frameborder="0" gesture="media" allowfullscreen></iframe>
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j7WzLw-UKQ0/0.jpg)](https://www.youtube.com/watch?v=j7WzLw-UKQ0)
 
 # Mac OS X Installation
