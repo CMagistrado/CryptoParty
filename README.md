@@ -48,7 +48,7 @@ gpg --export-secret-key --armour username
 
 4. Import Key
 ```
-gpg --import-key filename.pub
+gpg --import filename.pub
 ```
 
 5. Print keyring (Keys your have)
